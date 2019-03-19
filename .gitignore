@@ -1,0 +1,6 @@
+*.pb*.go
+*.swagger.json
+
+# Binaries
+echo
+gw
